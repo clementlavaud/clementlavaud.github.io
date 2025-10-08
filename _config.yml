@@ -20,3 +20,9 @@ nav:
 # Optional social icons
 github_username: clementlavaud
 google_scholar: "https://scholar.google.com/"
+
+minima:
+  skin: classic
+sass:
+  style: compressed
+
