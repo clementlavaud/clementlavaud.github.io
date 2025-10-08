@@ -3,6 +3,8 @@ layout: default
 title: "Home"
 ---
 
+<div style="height:4px;background:linear-gradient(90deg,#0077b6,#00b4d8,#90e0ef);margin-bottom:2rem;"></div>
+
 # 👋 Hello, I'm Clément LAVAUD
 
 I'm a **PhD student in Applied Mathematics**, working on **Image reconstruction and analysis in fluorescence diffuse optical tomography (fDOT)**.  
