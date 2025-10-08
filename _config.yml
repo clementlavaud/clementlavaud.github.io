@@ -1,6 +1,7 @@
 title: "Clément LAVAUD"
 description: "PhD Student in Applied Mathematics"
-theme: minima
+#theme: minima
+plugins: []
 markdown: kramdown
 show_excerpts: true
 defaults:
