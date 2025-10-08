@@ -5,8 +5,8 @@ title: "CV"
 
 # 🧾 Curriculum Vitae
 
-You can download my full CV in English (PDF)(assets/cv_eng.pdf).
-You can download my full CV in French (PDF)(assets/cv_fr.pdf).
+You can download my full CV in [English (PDF)](assets/cv_eng.pdf).
+You can download my full CV in [French (PDF)](assets/cv_fr.pdf).
 
 ---
 
