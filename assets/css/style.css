@@ -1,5 +1,5 @@
 body {
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   background: #fafafa;
   color: #111;
   line-height: 1.7;
@@ -14,19 +14,36 @@ body {
 }
 
 .hero .portrait {
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 50%;
   margin-bottom: 1.5rem;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+.hero .portrait:hover {
+  transform: scale(1.05);
 }
 
 h1, h2, h3 {
+  font-family: 'Space Grotesk', sans-serif;
   font-weight: 600;
   letter-spacing: -0.5px;
   color: #222;
 }
+
+h1::after, h2::after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: linear-gradient(90deg,#0077b6,#00b4d8,#90e0ef);
+  margin-top: 0.4rem;
+  border-radius: 2px;
+}
+
 
 a {
   color: #0077b6;
@@ -94,6 +111,13 @@ footer {
 .page-content {
   padding-top: 2rem;
 }
+
+section {
+  margin-bottom: 3rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
 
 /* Slight fade-in effect */
 body {
