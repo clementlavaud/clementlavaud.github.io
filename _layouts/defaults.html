@@ -6,9 +6,23 @@
   <title>{{ page.title }} — {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
 
-  <main>
+  <header class="navbar">
+    <div class="nav-content">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research' | relative_url }}">Research</a>
+        <a href="{{ '/publications' | relative_url }}">Publications</a>
+        <a href="{{ '/cv' | relative_url }}">CV</a>
+        <a href="{{ '/contact' | relative_url }}">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
     {{ content }}
   </main>
 
