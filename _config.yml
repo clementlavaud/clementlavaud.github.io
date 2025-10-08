@@ -3,6 +3,12 @@ description: "PhD Student in Applied Mathematics"
 theme: minima
 markdown: kramdown
 show_excerpts: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/style.css"
+
 
 # Links for header navigation
 nav:
