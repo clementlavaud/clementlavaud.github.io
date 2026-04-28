@@ -58,7 +58,7 @@ title: "Teaching"
     <h2>Modelization</h2>
 
     <p>
-       lab and project supervision
+       lab and project supervision !
     </p>
 
     <p class="details">
