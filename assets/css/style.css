@@ -11,32 +11,18 @@
 body {
   font-family: 'Inter', sans-serif;
   background: #fff;
-  color: #111;
-  line-height: 1.6;
-  animation: fadeIn 0.6s ease-in forwards;
+  color: #000;
 }
 
-/* FADE IN */
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-/* NAVBAR */
+/* NAV */
 
 .navbar {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 24px 32px;
-  font-size: 13px;
-  letter-spacing: 0.08em;
-  position: sticky;
-  top: 0;
-  background: white;
-  border-bottom: 1px solid #eee;
-  z-index: 100;
+  padding: 20px 30px;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid #000;
 }
 
 .site-title {
@@ -48,123 +34,82 @@ body {
 }
 
 .nav-right a {
-  margin-left: 24px;
+  margin-left: 20px;
   text-decoration: none;
-  color: #333;
-  position: relative;
-}
-
-/* underline animé minimal */
-
-.nav-right a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -4px;
-  width: 0;
-  height: 1px;
-  background: black;
-  transition: width 0.2s ease;
-}
-
-.nav-right a:hover::after {
-  width: 100%;
+  color: black;
 }
 
 /* LAYOUT */
 
 .container {
-  max-width: 820px;
-  margin: 100px 0 80px 120px; /* léger décalage éditorial */
-  padding: 0 20px;
+  width: 100%;
+  padding: 60px 40px;
 }
 
-/* HERO */
+/* HERO MASSIF */
 
-.hero {
-  margin-bottom: 80px;
-}
-
-.hero .portrait {
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  margin-bottom: 20px;
-  filter: grayscale(100%);
-  transition: transform 0.3s ease;
-}
-
-.hero .portrait:hover {
-  transform: scale(1.05);
-}
-
-/* TYPO */
-
-h1, h2, h3 {
+.hero h1 {
   font-family: 'Space Grotesk', sans-serif;
-  font-weight: 600;
-  letter-spacing: -0.02em;
+  font-size: 110px;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  max-width: 900px;
 }
 
-h1 {
-  font-size: 64px;
-  line-height: 1;
-  margin-bottom: 30px;
-}
-
-h2 {
-  font-size: 26px;
-  margin-top: 60px;
-  margin-bottom: 10px;
-}
-
-h3 {
-  font-size: 18px;
-  margin-top: 30px;
-}
-
-/* ligne sobre sous titres */
-
-h2::after {
-  content: "";
-  display: block;
-  width: 40px;
-  height: 2px;
-  background: black;
-  margin-top: 8px;
-}
-
-/* TEXTE */
-
-p {
-  font-size: 15px;
-  margin-bottom: 16px;
-  color: #222;
-}
-
-/* LINKS */
-
-a {
-  color: inherit;
-  text-decoration: none;
-  border-bottom: 1px solid #ccc;
-  transition: all 0.2s ease;
-}
-
-a:hover {
-  border-bottom: 1px solid black;
+.hero p {
+  font-size: 20px;
+  margin-top: 20px;
+  max-width: 600px;
 }
 
 /* SECTIONS */
 
 section {
-  margin-bottom: 60px;
+  margin-top: 120px;
+  max-width: 700px;
+}
+
+/* TITRES */
+
+h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+/* TEXTE */
+
+p {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* LINKS */
+
+a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+}
+
+a:hover {
+  background: black;
+  color: white;
+}
+
+/* IMAGE FULL BLEED */
+
+.full {
+  width: 100vw;
+  margin-left: -40px;
+  margin-top: 60px;
 }
 
 /* FOOTER */
 
 .footer {
-  padding: 40px 32px;
+  margin-top: 150px;
+  padding: 40px;
   font-size: 12px;
-  color: #777;
+  border-top: 1px solid black;
 }
