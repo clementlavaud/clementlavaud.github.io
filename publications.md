@@ -11,7 +11,7 @@ title: "Publications"
 
 <p>
 <strong>Statistical Analysis of the Recruitment of NBA Players</strong><br>
-<a href="https://hdl.handle.net/10589/211674">Read online</a>
+<a href="https://hdl.handle.net/10589/211674">Read online !</a>
 </p>
 
 <h2>Preprints</h2>
