@@ -11,7 +11,7 @@ title: "Home"
 
   <p>
     PhD student in applied mathematics working on inverse problems,
-    deep learning and biomedical imaging.
+    deep learning and biomedical imaging !
   </p>
 </section>
 
