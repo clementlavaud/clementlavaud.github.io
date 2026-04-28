@@ -3,8 +3,10 @@ layout: default
 title: "Contact"
 ---
 
-# 📬 Contact
+<h1>Contact</h1>
 
-- **Email:** clement.lavaud@univ-amu.fr
-- **GitHub:** [github.com/clementlavaud](https://github.com/clementlavaud)   
-- **Google Scholar:** [View Profile](https://scholar.google.com)  
+<p>
+Email — clement.lavaud@univ-amu.fr<br>
+GitHub — <a href="https://github.com/clementlavaud">clementlavaud</a><br>
+Google Scholar — <a href="#">Profile</a>
+</p>
