@@ -3,28 +3,36 @@ layout: default
 title: "Home"
 ---
 
-<div style="height:4px;background:linear-gradient(90deg,#0077b6,#00b4d8,#90e0ef);margin-bottom:2rem;"></div>
+<section class="hero">
+  <h1>Clément Lavaud</h1>
+  <p class="intro">
+    PhD student in Applied Mathematics working on inverse problems and image reconstruction
+    in fluorescence diffuse optical tomography (fDOT).
+  </p>
+  <p class="affiliation">
+    Institut de Mathématiques de Marseille (I2M) — Institut Fresnel
+  </p>
+</section>
 
-# 👋 Hello, I'm Clément LAVAUD
+<section>
+  <h2>Research</h2>
+  <p>
+    My work focuses on inverse problems, statistical learning, and deep neural networks
+    applied to biomedical imaging. I am particularly interested in hybrid approaches
+    combining model-based methods and learned architectures.
+  </p>
+</section>
 
-I'm a **PhD student in Applied Mathematics**, working on **Image reconstruction and analysis in fluorescence diffuse optical tomography (fDOT)**.  
-Currently based in Marseille, I work jointly for the **Institut de Mathématiques de Marseille (I2M)** and the **Institut Fresnel**.
+<section>
+  <h2>News</h2>
+  <p>2025 — Started PhD in Applied Mathematics, Aix-Marseille Université</p>
+</section>
 
----
-
-## 🌍 About me
-- 🧠 Background: Master's in Mathematical Engineering from Politecnico di Milano & General French Engineering degree from Centrale Nantes.  
-- 💡 Interests: Mathematics in biomedical applications, Deep Learning, Inverse Problems, Statistical analysis.  
-- 🎓 Research: Deep CNN Learning, Inverse problem resolution, Unrolled Networks.
-
----
-
-## 🧾 News
-- *(2025, Oct)* Started my PhD in Applied Mathematics 🎉  
-
----
-
-## 🔗 Quick links
-- [Research](research)  
-- [Publications](publications)  
-- [Download my CV](assets/cv.pdf)
+<section>
+  <h2>Links</h2>
+  <p>
+    <a href="/research">Research</a><br>
+    <a href="/publications">Publications</a><br>
+    <a href="/assets/cv_eng.pdf">CV (English)</a>
+  </p>
+</section>
