@@ -141,3 +141,23 @@ a:hover {
   font-size: 14px;
   opacity: 0.7;
 }
+
+.affiliations {
+  margin-top: 120px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.affiliations img {
+  height: 30px;
+  opacity: 0.6;
+  filter: grayscale(100%);
+  transition: 0.3s ease;
+}
+
+.affiliations img:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+}
