@@ -3,23 +3,17 @@ layout: default
 title: "Publications"
 ---
 
-# Scientific Publications
+<h1>Publications</h1>
 
-Here is the list my scientific contributions (to be completed...)
+<p>List of scientific contributions (ongoing).</p>
 
-## Master's Thesis
-**Statistical analysis of the recruitment of basketball players in the NBA**  
+<h2>Master's Thesis</h2>
 
-Fully accessible online : https://hdl.handle.net/10589/211674
+<p>
+<strong>Statistical Analysis of the Recruitment of NBA Players</strong><br>
+<a href="https://hdl.handle.net/10589/211674">Read online</a>
+</p>
 
+<h2>Preprints</h2>
 
-
-## To be published...
-
-
----
-
-### 
-
-```markdown
-![Example result](assets/images/sample_plot.png)
+<p>Coming soon.</p>
