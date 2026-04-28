@@ -113,3 +113,31 @@ a:hover {
   font-size: 12px;
   border-top: 1px solid black;
 }
+
+.teaching {
+  margin-top: 80px;
+}
+
+.course {
+  margin-bottom: 80px;
+  border-top: 1px solid black;
+  padding-top: 20px;
+}
+
+.course-meta {
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  margin-bottom: 10px;
+  display: flex;
+  gap: 20px;
+}
+
+.course h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.course .details {
+  font-size: 14px;
+  opacity: 0.7;
+}
