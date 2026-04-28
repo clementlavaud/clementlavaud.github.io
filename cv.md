@@ -3,8 +3,6 @@ layout: default
 title: "CV"
 ---
 
-<h1>CV</h1>
-
 <h2>Education</h2>
 
 <p>
@@ -16,9 +14,10 @@ Centrale Nantes (2023)
 <h2>Experience</h2>
 
 <p>
+Aix-Marseille Université - Teaching Activites (64h) (2025-) <br>
 Inria — Research Engineer (2024)<br>
 CentraleSupélec — Teaching Assistant (2024)<br>
-Vinci — Internship (2021)
+Vinci Constructions France — Engineering Internship (2021)
 </p>
 
 <h2>Skills</h2>
