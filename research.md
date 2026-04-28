@@ -3,24 +3,37 @@ layout: default
 title: "Research"
 ---
 
-# 🔬 Research & Results
+<h1>Research</h1>
 
-Currently working on finding a way to describe accurately and classify mathematically the physical problem at hands by trying to figure out how to handle the operator involved the inverse problem we study.
+<h2>Current Work</h2>
 
-## 🧩 Current Work
-**Image Reconstruction and analysis in fluorescence diffuse optical tomography**  
-Finding a robust way to compute efficiently an image in fluorescence diffuse optical tomography by using Hybrid methods.  
-*Methods:* Unrolled Networkds, Weighted Least Squares, Operator.  
+<p><strong>Fluorescence Diffuse Optical Tomography (fDOT)</strong></p>
 
-## 🧠 Previous Work
-**Biomedical Image Classification for pre-diagnosis** — Convolutional Neural Networks modelling and efficient learning for photo-refraction image interpretation in the extreme cases.  
-**AI-generated Text Detection** — Classification using transformer embeddings.
-**Statistical Analysis of the recruitment of young players in the NBA** - My master's thesis, which was all done in R.
+<p>
+Development of hybrid methods for image reconstruction combining inverse problem
+formulations and deep learning approaches.
+</p>
 
----
+<p>
+Focus on:
+- unrolled networks  
+- weighted least squares methods  
+- operator-based modelling  
+</p>
 
-### 📊 Figures / Results
-You can include figures stored in `/assets/images/`, like this:
+<h2>Previous Work</h2>
 
-```markdown
-![Example result](assets/images/sample_plot.png)
+<p><strong>Biomedical Image Classification</strong><br>
+Deep learning models for photo-refraction image analysis.</p>
+
+<p><strong>AI-generated Text Detection</strong><br>
+Transformer-based classification methods.</p>
+
+<p><strong>NBA Recruitment Analysis</strong><br>
+Statistical modelling in R (Master's thesis).</p>
+
+<h2>Results</h2>
+
+<p>
+<img src="/assets/images/sample_plot.png" alt="Result example">
+</p>
