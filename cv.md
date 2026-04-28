@@ -3,30 +3,42 @@ layout: default
 title: "CV"
 ---
 
-# 🧾 Curriculum Vitae
+<h1>Curriculum Vitae</h1>
 
-You can download my full CV in [English (PDF)](assets/cv_eng.pdf).
-You can download my full CV in [French (PDF)](assets/cv_fr.pdf).
+<p>
+  <a href="/assets/cv_eng.pdf">Download CV (English)</a><br>
+  <a href="/assets/cv_fr.pdf">Download CV (French)</a>
+</p>
 
----
+<h2>Education</h2>
 
-## 🎓 Education
-- Phd in Mathematics — *Aix-Marseille Université*, Marseille, 2025–present
-  Co-Supervised by C. CHAUX-MOULIN (I2M) and A. DA SILVA (Institut Fresnel); Working on image reconstruction and analysis in fluorescence diffuse optical tomography (fDOT)
-- MSc in Mathematical Engineering (Statistical Learning track) — *Politecnico di Milano*, Milano, 2021–2023
-- Great French Engineering school degree — *Ecole Centrale de Nantes*, Nantes, 2019–2023
-- Preparatory Classes in Mathematics and Physics - *Institution Sainte-Marie Antony*, Antony, 2017-2019
-- High School Degree - *Sainte-Marie Grand Lebrun*, Bordeaux, 2017
+<p><strong>PhD in Applied Mathematics</strong><br>
+Aix-Marseille Université, 2025–present<br>
+Co-supervised by C. Chaux-Moulin (I2M) and A. Da Silva (Institut Fresnel)</p>
 
----
+<p><strong>MSc in Mathematical Engineering</strong><br>
+Politecnico di Milano, 2021–2023</p>
 
-## 💼 Experience
-- Research Engineer — *Inria CVN/OPIS Team*, Gif-Sur-Yvette, Februrary to November 2024
-  Working for Essilor Luxottica under the supervision of E. CHOUZENOUX. 
-- Teaching Assistant in Data Science for Business Analytics MsC — *Centrale Supélec*, Gif-Sur-Yvette, 2024
-- Research Intern - *Vinci Constructions France*, Chevilly-Larue, 2021
+<p><strong>Engineering Degree</strong><br>
+École Centrale de Nantes, 2019–2023</p>
 
----
+<p><strong>Preparatory Classes (Maths & Physics)</strong><br>
+Institution Sainte-Marie Antony, 2017–2019</p>
 
-## 🧠 Skills
-Python (Keras, PyTorch, OpenCV, DeepInv) · R · MatLab · C++ (Parallel Computing) · LaTeX · Docker · Git · 
+<h2>Experience</h2>
+
+<p><strong>Research Engineer</strong><br>
+Inria (CVN/OPIS), 2024<br>
+Collaboration with EssilorLuxottica</p>
+
+<p><strong>Teaching Assistant</strong><br>
+CentraleSupélec, 2024</p>
+
+<p><strong>Research Intern</strong><br>
+Vinci Construction, 2021</p>
+
+<h2>Skills</h2>
+
+<p>
+Python (PyTorch, Keras, OpenCV) — R — MATLAB — C++ — LaTeX — Docker — Git
+</p>
