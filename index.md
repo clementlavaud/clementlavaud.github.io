@@ -40,3 +40,10 @@ title: "Home"
     <a href="/assets/cv_eng.pdf">CV</a>
   </p>
 </section>
+
+<section class="affiliations">
+  <img src="/assets/images/i2m.png" alt="I2M">
+  <img src="/assets/images/fresnel.png" alt="Institut Fresnel">
+  <img src="/assets/images/centrale.png" alt="Centrale Nantes">
+  <img src="/assets/images/polimi.png" alt="Politecnico di Milano">
+</section>
