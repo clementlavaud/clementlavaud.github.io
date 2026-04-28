@@ -11,7 +11,7 @@ title: "Research"
 
 <p>
 Development of hybrid methods for image reconstruction combining inverse problem
-formulations and deep learning approaches.
+formulations and deep learning approaches !
 </p>
 
 <p>
