@@ -20,7 +20,7 @@ title: "Home"
   <p>
     I develop hybrid approaches combining model-based inverse problem
     formulations and neural networks, with applications to fluorescence
-    diffuse optical tomography.
+    diffuse optical tomography !
   </p>
 </section>
 
