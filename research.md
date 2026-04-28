@@ -2,9 +2,6 @@
 layout: default
 title: "Research"
 ---
-
-<h1>Research</h1>
-
 <h2>Current Work</h2>
 
 <p><strong>Fluorescence Diffuse Optical Tomography (fDOT)</strong></p>
