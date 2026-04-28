@@ -30,7 +30,7 @@ Deep learning models for photo-refraction image analysis.</p>
 Transformer-based classification methods.</p>
 
 <p><strong>NBA Recruitment Analysis</strong><br>
-Statistical modelling in R (Master's thesis).</p>
+Statistical modelling in R (Master's thesis) !</p>
 
 <h2>Results</h2>
 
