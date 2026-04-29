@@ -162,3 +162,23 @@ a:hover {
   filter: grayscale(0%);
 }
 
+.side-logos {
+  position: fixed;
+  left: 20px;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.side-logos img {
+  width: 60px;
+  opacity: 0.5;
+  filter: grayscale(100%);
+  transition: 0.3s ease;
+}
+
+.side-logos img:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+}
