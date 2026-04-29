@@ -174,7 +174,7 @@ a:hover {
 .side-logos img {
   width: 120px;
   opacity: 0.5;
-  filter: grayscale(50%);
+  filter: grayscale(75%);
   transition: 0.3s ease;
 }
 
