@@ -10,8 +10,8 @@ title: "Home"
   </h1>
 
   <p>
-    PhD student in applied mathematics working on inverse problems,
-    deep learning and biomedical imaging !
+    PhD student in applied mathematics specializing in inverse problems,
+    image reconstruction and deep learning for biomedical imaging.
   </p>
 </section>
 
@@ -41,9 +41,9 @@ title: "Home"
   </p>
 </section>
 
-<section class="affiliations">
-  <img src="/assets/images/i2m.png" alt="I2M">
-  <img src="/assets/images/fresnel.png" alt="Institut Fresnel">
-  <img src="/assets/images/centrale.png" alt="Centrale Nantes">
-  <img src="/assets/images/polimi.png" alt="Politecnico di Milano">
+<section class="side-logos">
+  <img src="/assets/images/INSTITUT-FRESNEL.png" alt="Institut Fresnel">
+  <img src="/assets/images/logoi2M.png" alt="I2M">
+  <img src="/assets/images/LogoECN_ZoneExclusion_siteWeb_Q.png" alt="Centrale Nantes">
+  <img src="/assets/images/Logo_Politecnico_Milano.png" alt="Politecnico di Milano">
 </section>
