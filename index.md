@@ -42,8 +42,8 @@ title: "Home"
 </section>
 
 <section class="side-logos">
-  <img src="/assets/images/INSTITUT-FRESNEL.png" alt="Institut Fresnel">
-  <img src="/assets/images/logoi2M.png" alt="I2M">
-  <img src="/assets/images/LogoECN_ZoneExclusion_siteWeb_Q.png" alt="Centrale Nantes">
-  <img src="/assets/images/Logo_Politecnico_Milano.png" alt="Politecnico di Milano">
+  <img src="/assets/img/INSTITUT-FRESNEL.jpg" alt="Institut Fresnel">
+  <img src="/assets/img/logoi2M.png" alt="I2M">
+  <img src="/assets/img/LogoECN_ZoneExclusion_siteWeb_Q.png" alt="Centrale Nantes">
+  <img src="/assets/img/Logo_Politecnico_Milano.png" alt="Politecnico di Milano">
 </section>
