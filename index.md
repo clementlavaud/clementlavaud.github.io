@@ -9,10 +9,7 @@ title: "Home"
     2nd year PhD student at Aix-Marseille Université, supervised by Caroline CHAUX (I2M) and Anabela DA SILVA (Insitut Fresnel). I work on image reconstruction for
     <strong>fluorescence diffuse optical tomography</strong> (fDOT), a non-invasive
     3D imaging technique used to follow fluorescent markers of biological processes
-    in small animals. Recovering the images from surface measurements is a severely
-    ill-posed inverse problem: I combine model-based regularised reconstruction with
-    statistical learning, in particular unrolled networks, to get algorithms that are
-    robust, fast and interpretable.
+    in small animals.
   </p>
 </section>
 
