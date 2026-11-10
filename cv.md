@@ -3,38 +3,26 @@ layout: default
 title: "CV"
 ---
 
-<p class="eyebrow">Profile / CV</p>
-<h1 class="page-title">Experience<br>&amp; education.</h1>
+<div class="page">
+  <aside class="page-side">
+    <h1 class="page-title">CV</h1>
+    <p><a class="text-link" href="{{ '/assets/cv_fr.pdf' | relative_url }}">CV (PDF, français) ↗</a></p>
+  </aside>
+  <div class="page-body">
+    <p class="label">Education</p>
+    <p><strong>PhD</strong>, I2M, Institut Fresnel, Aix-Marseille Université <span class="muted">(2025– )</span><br>
+    <span class="muted">Image reconstruction and analysis in fluorescence diffuse optical tomography (fDOT), Supervisors : C. CHAUX-MOULIN (I2M) & A. DA SILVA (Institut Fresnel) </span></p>
+    <p><strong>MSc</strong>, Politecnico di Milano <span class="muted">(2023)
+    <span class="muted"> Master's Thesis: "Recruiting young players in the NBA : a statistical analysis", Supervisor : P. SECCHI</p> <a class="text-link" href="https://hdl.handle.net/10589/211674">
+    <p><strong>Engineering degree</strong>, Centrale Nantes <span class="muted">(2023)</span></p>
 
-<section class="content-section">
-  <div class="two-column">
-    <h2>Education</h2>
-    <div>
-      <p><strong>PhD</strong> — Aix-Marseille Université <span class="muted">(2025– )</span></p>
-      <p><strong>MSc</strong> — Politecnico di Milano <span class="muted">(2023)</span></p>
-      <p><strong>Engineering degree</strong> — Centrale Nantes <span class="muted">(2023)</span></p>
-    </div>
-  </div>
-  <div class="two-column">
-    <h2>Experience</h2>
-    <div>
-      <p>Aix-Marseille Université — Teaching activities <span class="muted">(2025– )</span></p>
-      <p>Inria — Research Engineer <span class="muted">(2024)</span></p>
-      <p>CentraleSupélec — Teaching Assistant <span class="muted">(2024)</span></p>
-      <p>Vinci Construction France — Engineering internship <span class="muted">(2021)</span></p>
-    </div>
-  </div>
-  <div class="two-column">
-    <h2>Tools</h2>
+    <p class="label">Experience</p>
+    <p>Aix-Marseille Université, teaching activities <span class="muted">(2025– )</span></p>
+    <p>Inria, CVN, research engineer in Deep Learning for Biomedical Image Pre-Diagnosis (Under the supervision Of E. CHOUZENOUX) <span class="muted">(2024)</span></p>
+    <p>CentraleSupélec, teaching assistant <span class="muted">(2024)</span></p>
+    <p>Vinci Construction France, engineering internship <span class="muted">(2021)</span></p>
+
+    <p class="label">Tools</p>
     <p>Python · PyTorch · R · MATLAB · C++ · LaTeX</p>
   </div>
-</section>
-
-<section class="content-section">
-  <div class="section-heading">
-    <p class="section-label">Downloads</p>
-    <h2>Full CV</h2>
-  </div>
-  <p><a class="text-link" href="{{ '/assets/cv_fr.pdf' | relative_url }}">French CV (PDF) ↗</a></p>
-  <p class="muted">The English PDF link can be added when the file is included in the repository.</p>
-</section>
+</div>
