@@ -17,7 +17,7 @@ title: "Publications"
     </p>
 
     <p class="label">Preprints</p>
-    <p class="muted">Coming soon.</p>
+    <p class="muted">Coming soon ...!</p>
 
     <p class="label">Master's thesis</p>
     <p>
