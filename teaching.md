@@ -15,12 +15,12 @@ title: "Teaching"
       <p>Labs, exercises and course activities covering RStudio, statistical tests and ANOVA.</p>
     </div>
     <div class="course">
-      <div class="course-meta"><span>L2 Mathematics</span><span>18 hours</span></div>
+      <div class="course-meta"><span>L2 Mathematics</span><span> 18 hours</span></div>
       <h2>Modelling</h2>
       <p>Laboratory sessions and project supervision in mathematical modelling and Python.</p>
     </div>
     <div class="course">
-      <div class="course-meta"><span>L1 MPCI</span><span>15 hours</span></div>
+      <div class="course-meta"><span>L1 MPCI</span><span> 15 hours</span></div>
       <h2>Modelling</h2>
       <p>Tutoring and oral examination in Maths for engineering schools</p>
     </div>
