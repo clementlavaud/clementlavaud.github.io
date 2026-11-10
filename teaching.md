@@ -21,7 +21,7 @@ title: "Teaching"
     </div>
     <div class="course">
       <div class="course-meta"><span>L1 MPCI</span><span> 15 hours</span></div>
-      <h2>Modelling</h2>
+      <h2>Tutoring</h2>
       <p>Tutoring and oral examination in Maths for engineering schools</p>
     </div>
 
