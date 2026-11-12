@@ -16,21 +16,21 @@ title: "Teaching"
     </div>
     <div class="course">
       <div class="course-meta"><span>L2 Mathematics</span><span> 18 hours</span></div>
-      <h2>Modelling</h2>
+      <h2>Mathematical Modelling</h2>
       <p>Laboratory sessions and project supervision in mathematical modelling and Python.</p>
     </div>
     <div class="course">
       <div class="course-meta"><span>L1 MPCI</span><span> 15 hours</span></div>
       <h2>Tutoring</h2>
-      <p>Tutoring and oral examination in Maths for engineering schools</p>
+      <p>Tutoring and oral examination in Maths for engineering schools entering exams </p>
     </div>
 
-    <p class="label">CentraleSupélec · 2024</p>
+    <p class="label">CentraleSupélec · ESSEC · 2024</p>
     <div class="course">
-      <div class="course-meta"><span>MSc</span><span>Teaching assistant</span></div>
+      <div class="course-meta"><span>MSc of Data Science for Business analytics </span><span> 15 Hours</span></div>
       <h2>Ensemble learning</h2>
       <p>Supervised practical sessions and projects.</p>
-      <p class="details">Python · Machine learning · Data analysis</p>
+      <p class="details">Python · Machine learning · Data science</p>
     </div>
   </div>
 </div>
