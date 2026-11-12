@@ -5,7 +5,7 @@ title: "Publications"
 
 <div class="page">
   <aside class="page-side">
-    <h1 class="page-title">Publications</h1>
+    <h1 class="page-title">Scientific Communications</h1>
   </aside>
   <div class="page-body">
     <p class="label">Talks &amp; posters</p>
